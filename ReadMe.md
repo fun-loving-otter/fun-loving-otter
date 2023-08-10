@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="./Logo.png" style="width: 100%" />
+  <img src="./logo.png" style="width: 100%" />
 </p>
 
 ## Core Skills
